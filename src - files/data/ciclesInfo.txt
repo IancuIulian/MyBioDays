@@ -1,0 +1,19 @@
+Cicles info:
+
+Physical cicle (22 days):
+      - critical at day    0
+      - positive at day    1 - 11.5
+      - critical at day 11.5 - 12.5
+      - negative at day 12.5 - 22
+
+Emotional cicle (28 days):
+      - critical at day  0
+      - positive at day  1 - 13
+      - critical at day 14
+      - negative at day 15 - 27
+
+Intelectual cicle (33 days):
+      - critical at day    0
+      - positive at day    1 - 15.5
+      - critical at day 15.5 - 16.5
+      - negative at day 16.5 - 32
