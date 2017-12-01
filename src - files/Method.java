@@ -8,7 +8,7 @@ public class Method {
         JOptionPane.showMessageDialog(null, infoMessage, titleBar, JOptionPane.INFORMATION_MESSAGE);
     }
     static boolean validInput(JTextField tf, String dateString){
-        String pattern = "[1-9](\\d)?\\D\\d(\\d)?\\D\\d\\d\\d\\d";
+        String pattern = "[0]?[1-9](\\d)?\\D\\d(\\d)?\\D\\d\\d\\d\\d";
         if (!dateString.matches(pattern)) {
             tf.setForeground(Color.red);
             return false;
